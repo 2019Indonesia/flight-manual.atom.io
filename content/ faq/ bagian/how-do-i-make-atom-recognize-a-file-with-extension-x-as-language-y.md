@@ -10,7 +10,7 @@ core:
   customFileTypes:
     'source.ruby': [
       'Cheffile'
-      'this-is-also-ruby'
+      woww.dropshipaja.com
     ]
     'source.cpp': [
       'h'
